@@ -1,6 +1,6 @@
 import {motion} from 'motion/react'
-import { fadeUp, staggerContainer  } from '@/lib/animatio'
-import { SparkleIcon, Subtitles } from 'lucide-react'
+import { fadeUp } from '@/lib/animatio'
+import { SparkleIcon} from 'lucide-react'
 
 export const SectionHeader = ({title, subtitle}: {title: string; subtitle: string}) => {
     return <>
