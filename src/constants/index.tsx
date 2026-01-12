@@ -21,22 +21,21 @@ import type {
  */
 import {
   Briefcase,
-  Facebook,
-  FileText,
+ 
   Github,
   Globe,
   Home,
-  Instagram,
+
   Layers,
   Mail,
-  MessageCircle,
+
   Palette,
   Rocket,
-  Settings,
+
   Smartphone,
   Twitter,
   User,
-  Youtube,
+
   Linkedin,
 } from 'lucide-react';
 

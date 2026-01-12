@@ -1,4 +1,5 @@
 import type { JSX, ElementType } from 'react';
+declare module '@emailjs/browser';
 
 export type ProjectType = {
   imgSrc: string;
