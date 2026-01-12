@@ -73,7 +73,7 @@ const socialLinks: LinksType[] = [
 
 const projectsData: ProjectType[] = [
   {
-    imgSrc: "/public/images/project1.1.jpg",
+    imgSrc: "/images/project1.1.jpg",
     title: "AI Scheduler",
     description:
       "An AI-driven scheduler that turns natural-language input into structured timetables and fast, production-ready PDFs, deployed on a resilient serverless Vercel stack.",
@@ -82,7 +82,7 @@ const projectsData: ProjectType[] = [
   },
   // Add other projects here
   {
-    imgSrc: "/public/images/project2.jpg",
+    imgSrc: "/images/project2.jpg",
     title: "E-Commerce & P2P Marketplace",
     description:
       "A production-ready commerce engine facilitating secure user-to-user trades via a custom escrow pipeline, featuring ACID-compliant transaction logic and real-time WebSocket notifications, deployed on a resilient AWS/Docker cloud stack.",
@@ -132,35 +132,35 @@ const experience: ExperienceType[] = [
 const tools: ToolsType[] = [
   {
     label: 'Java',
-    imgSrc: '/public/images/java-icon.svg',
+    imgSrc: 'images/java-icon.svg',
   },
   {
     label: 'HTML & CSS',
-    imgSrc: '/public/images/html5-svgrepo-com.svg',
+    imgSrc: 'images/html5-svgrepo-com.svg',
   },
   {
     label: 'TypeScript / JavaScript',
-    imgSrc: '/public/images/typescript.svg',
+    imgSrc: 'images/typescript.svg',
   },
   {
     label: 'React',
-    imgSrc: '/public/images/react-svgrepo-com.svg',
+    imgSrc: 'images/react-svgrepo-com.svg',
   },
   {
     label: 'Spring Boot',
-    imgSrc: '/public/images/spring-boot-1.svg',
+    imgSrc: '/images/spring-boot-1.svg',
   },
   {
     label: 'Python',
-    imgSrc: '/public/images/python-svgrepo-com.svg',
+    imgSrc: '/images/python-svgrepo-com.svg',
   },
   {
     label: 'Node.js',
-    imgSrc: '/public/images/nodejs-icon-logo-svgrepo-com.svg',
+    imgSrc: '/images/nodejs-icon-logo-svgrepo-com.svg',
   },
   {
     label: 'PostgreSQL',
-    imgSrc: '/public/images/postgresql-logo-svgrepo-com.svg',
+    imgSrc: '/images/postgresql-logo-svgrepo-com.svg',
   },
 ];
 
