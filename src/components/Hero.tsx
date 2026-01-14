@@ -18,7 +18,7 @@ export const Hero = () => {
                 <Button asChild><a href="#project">My Projects</a></Button>
 
                 <Button variant='outline'>
-                      <a href="/public/Kene_s_Resume (5).pdf" download>Download Resume</a>
+                      <a href="/Kene_s_Resume (5).pdf" download>Download Resume</a>
                     </Button>
             </motion.div>
 
